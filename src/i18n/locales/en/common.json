@@ -5,11 +5,11 @@
         "cronTasks": "Cron Tasks",
         "skills": "Skills",
         "agents": "Agents",
-        "channels": "Channels",
+        "channels": "IM Channels",
         "dashboard": "Dashboard",
         "settings": "Settings",
         "devConsole": "Developer Console",
-        "models": "Models",
+        "models": "Models & API",
         "deleteSessionConfirm": "Are you sure you want to delete session \"{{label}}\"?",
         "openClawPage": "OpenClaw Page"
     },
